@@ -1,0 +1,12 @@
+import java.math.BigInteger;
+
+
+public class PrivateKey {
+	private BigInteger p;
+	private BigInteger q;
+	private BigInteger y;
+	private BigInteger g;
+	public PrivateKey() {
+		
+	}
+}

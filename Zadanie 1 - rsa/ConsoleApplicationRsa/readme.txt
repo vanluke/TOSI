@@ -1,0 +1,3 @@
+Standardowa biblioteka bigiteger od ms rzuca wyj¹tki przy du¿ych liczbach. Biblioteka nie jest portem z javy. Jest przeznaczona dla liczb niecowiêkszych od long.
+Dlatego widaæ, ¿e parametry p oraz q s¹ doœæ ma³e, mo¿na przepi¹æ siê na inne liby (jest wiele implementacji czy te¿ portów z java dla tej biblioteki) i zobaczyæ czy dzia³a ja tego nie robi³em wyt³umaczy³em dlaczego u¿y³em takich liczb.
+W przyk³adzie który widzisz w mainie zobaczysz na koñcu dodatkowy znak Q, to jest dobrze tak ma byæ, gdzy¿ rozmiar bloku to 3 i ci¹g znaków musi zostaæ uzupe³niony.

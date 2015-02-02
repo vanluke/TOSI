@@ -1,0 +1,9 @@
+import java.math.BigInteger;
+
+
+public class PublicKey {
+	private BigInteger x;
+	public BigInteger getX(){
+		return x;
+	}
+}

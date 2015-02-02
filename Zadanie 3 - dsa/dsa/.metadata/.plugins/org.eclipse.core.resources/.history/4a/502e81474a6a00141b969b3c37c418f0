@@ -1,0 +1,4 @@
+
+public class PrivateKey {
+	private BigInteger P;
+}

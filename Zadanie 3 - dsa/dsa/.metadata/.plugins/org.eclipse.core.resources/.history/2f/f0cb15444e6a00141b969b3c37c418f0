@@ -1,0 +1,16 @@
+import java.math.BigInteger;
+
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		DSA key = new DSA();
+		SecurityKeys sec = key.generateKey();
+		String message = "sasadijasdoisadjklsadlkasdl;k";
+		byte[] byteMessage = message.getBytes();
+		key.Sing(sec, byteMessage);
+		System.out.print(t);
+	}
+
+}

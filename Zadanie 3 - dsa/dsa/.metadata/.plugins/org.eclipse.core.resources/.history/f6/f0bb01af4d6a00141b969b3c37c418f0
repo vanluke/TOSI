@@ -1,0 +1,9 @@
+
+public class SignValues {
+	private BigInteger s;
+	private BigInteger r;
+	
+	public SignValues(BigInteger s, BigInteger r) {
+		
+	}
+}

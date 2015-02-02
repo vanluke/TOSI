@@ -1,0 +1,21 @@
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Source\Repos\Zadanie1\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 3 - dsa\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 3 - dsa\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 3 - dsa\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 4 - openssl\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

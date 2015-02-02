@@ -1,0 +1,1 @@
+gdyby brakowa³o libów wgraæ pe³ne jdk oraz liby od apacha

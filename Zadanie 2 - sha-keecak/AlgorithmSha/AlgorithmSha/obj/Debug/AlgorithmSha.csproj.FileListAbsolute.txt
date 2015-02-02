@@ -1,0 +1,13 @@
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\bin\Debug\BigInteger.dll
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.dll.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.dll
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Praca dyplomowa\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.dll
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\bin\Debug\AlgorithmSha.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 2 - sha-keecak\AlgorithmSha\AlgorithmSha\obj\Debug\AlgorithmSha.exe

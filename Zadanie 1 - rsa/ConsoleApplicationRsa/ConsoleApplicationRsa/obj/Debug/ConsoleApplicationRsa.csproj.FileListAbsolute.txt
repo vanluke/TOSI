@@ -1,0 +1,12 @@
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\bin\Debug\ConsoleApplicationRsa.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Tosi\Zadanie 1 - rsa\ConsoleApplicationRsa\ConsoleApplicationRsa\obj\Debug\ConsoleApplicationRsa.csprojResolveAssemblyReference.cache

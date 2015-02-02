@@ -1,0 +1,13 @@
+import java.math.BigInteger;
+
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Key key = new Key();
+		BigInteger t = key.generateKey();
+		System.out.print(t);
+	}
+
+}
